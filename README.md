@@ -149,3 +149,8 @@ OpenAI
 Gemini
 Lovable AI
 Google Stitch
+<h2>🐍 Contribution Snake</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abhiram33/abhiram33/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+</p>
