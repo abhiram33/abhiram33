@@ -1,36 +1,28 @@
 <div align="left">
 
-<img align="right" src="./img.png" width="250" hspace="15" alt="Neraj Lal">
+<h1>Hey there, I'm Abhiram A. 👋</h1>
 
-<h1>Hey there, I'm Neraj Lal 👋</h1>
-
-<a href="https://github.com/nerajlal">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=EF93C4&center=false&vCenter=true&width=500&lines=Full+Stack+Developer;Laravel+%7C+Shopify+Specialist;AI+%26+LLM+Integrations;Building+SaaS+%26+Production+Web+Apps;Turning+Ideas+Into+Working+Products" alt="Typing SVG">
+<a href="https://github.com/abhiram33">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=EF93C4&center=false&vCenter=true&width=600&lines=Generative+AI+Engineer;AI+%7C+RAG+%7C+LLM+Applications;Python+%7C+LangChain+%7C+Gemini;Building+AI-Powered+Applications;Turning+Ideas+Into+Working+AI+Products" alt="Typing SVG">
 </a>
 
 <p>
-  <a href="https://nerajlal.gecnoguru.com/">
-    <img src="https://img.shields.io/badge/Portfolio-161B22?style=for-the-badge&logo=google-chrome&logoColor=EF93C4" alt="Portfolio">
-  </a>
-  <a href="https://github.com/nerajlal">
+  <a href="https://github.com/abhiram33">
     <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=EF93C4" alt="GitHub">
   </a>
-  <a href="https://www.linkedin.com/in/nerajlal/">
+  <a href="https://www.linkedin.com/">
     <img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=EF93C4" alt="LinkedIn">
-  </a>
-  <a href="https://www.instagram.com/techbyneraj/">
-    <img src="https://img.shields.io/badge/Instagram-161B22?style=for-the-badge&logo=instagram&logoColor=FF69B4" alt="Instagram">
   </a>
 </p>
 
 <p>
-  <a href="https://github.com/nerajlal?tab=followers">
-    <img src="https://img.shields.io/github/followers/nerajlal?style=for-the-badge&label=FOLLOWERS&color=EF93C4&labelColor=161B22" alt="GitHub followers">
+  <a href="https://github.com/abhiram33?tab=followers">
+    <img src="https://img.shields.io/github/followers/abhiram33?style=for-the-badge&label=FOLLOWERS&color=EF93C4&labelColor=161B22" alt="GitHub followers">
   </a>
-  <a href="https://github.com/nerajlal?tab=repositories">
-    <img src="https://img.shields.io/github/stars/nerajlal?style=for-the-badge&label=STARS&color=F8BBD0&labelColor=161B22" alt="GitHub stars">
+  <a href="https://github.com/abhiram33?tab=repositories">
+    <img src="https://img.shields.io/github/stars/abhiram33?style=for-the-badge&label=STARS&color=F8BBD0&labelColor=161B22" alt="GitHub stars">
   </a>
-  <img src="https://komarev.com/ghpvc/?username=nerajlal&style=for-the-badge&label=PROFILE%20VIEWS&color=FF69B4&labelColor=161B22" alt="Profile views">
+  <img src="https://komarev.com/ghpvc/?username=abhiram33&style=for-the-badge&label=PROFILE%20VIEWS&color=FF69B4&labelColor=161B22" alt="Profile views">
 </p>
 
 <br clear="both">
@@ -43,50 +35,114 @@
 <tr>
 <td width="65%" valign="top">
 
-## 👨‍💻 About Me
+## 🤖 About Me
 
-I'm **Neraj Lal**, a Full Stack Developer focused on building modern web applications, Shopify apps, SaaS products, and AI-powered solutions.
+I'm **Abhiram A.**, a **Generative AI Engineer** focused on building AI-powered applications, RAG systems, intelligent assistants, and data-driven solutions.
 
-I enjoy taking an idea from **concept → architecture → development → deployment → production**.
+I enjoy taking an idea from **concept → development → testing → deployment** and turning it into a working product.
 
-- 🚀 Full Stack Web Development
-- 🛍️ Shopify App Development
-- 🤖 AI & LLM Integrations
-- 🏗️ SaaS & Multi-Tenant Applications
-- ☁️ Cloud Deployment & Server Management
-- ⚡ Laravel, PHP, JavaScript & React
-- 🐍 Exploring Python & Django
+- 🤖 Generative AI & LLM Applications
+- 🧠 Retrieval-Augmented Generation (RAG)
+- 🔗 LangChain & AI Workflows
+- 🐍 Python & Data Science
+- 🔎 Vector Databases & FAISS
+- 💬 AI Chatbots & NLP
+- 🎙️ AI Voice Assistants
+- 📊 Data Intelligence & Web Scraping
+- ⚡ Streamlit AI Applications
+- 🛠️ Prompt Engineering
 
-> **Build things. Break things. Learn things. Ship things.**
+> **Build. Experiment. Learn. Ship.**
 
 </td>
+
 <td width="35%" align="center" valign="middle">
 
-<img src="https://skillicons.dev/icons?i=php,laravel,python,django,javascript,typescript,react,nextjs,nodejs,shopify,mysql,redis,docker,git,github,linux,nginx&perline=5&theme=dark" width="100%" alt="Tech stack">
+<img src="https://skillicons.dev/icons?i=python,tensorflow,git,github,vscode&perline=5&theme=dark" width="100%" alt="Tech stack">
 
 </td>
 </tr>
 </table>
 
-
 <br><br>
 
 <div align="center">
 
-## 🐍 Contribution Snake
+## 🧠 Generative AI Stack
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nerajlal/nerajlal/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nerajlal/nerajlal/output/github-contribution-grid-snake.svg">
-  <img src="https://raw.githubusercontent.com/nerajlal/nerajlal/output/github-contribution-grid-snake.svg" width="90%" alt="GitHub Contribution Snake">
-</picture>
+<img src="https://img.shields.io/badge/Python-161B22?style=for-the-badge&logo=python&logoColor=3776AB">
+<img src="https://img.shields.io/badge/LangChain-161B22?style=for-the-badge&logo=chainlink&logoColor=EF93C4">
+<img src="https://img.shields.io/badge/Gemini_AI-161B22?style=for-the-badge&logo=google&logoColor=4285F4">
+<img src="https://img.shields.io/badge/FAISS-161B22?style=for-the-badge&logo=meta&logoColor=1877F2">
+<img src="https://img.shields.io/badge/Streamlit-161B22?style=for-the-badge&logo=streamlit&logoColor=FF4B4B">
+<img src="https://img.shields.io/badge/Scikit--learn-161B22?style=for-the-badge&logo=scikitlearn&logoColor=F7931E">
+<img src="https://img.shields.io/badge/Pandas-161B22?style=for-the-badge&logo=pandas&logoColor=150458">
+<img src="https://img.shields.io/badge/NumPy-161B22?style=for-the-badge&logo=numpy&logoColor=013243">
 
 </div>
 
 <br>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&text=Keep%20Building%20%E2%80%A2%20Keep%20Learning%20%E2%80%A2%20Keep%20Shipping&fontSize=19&fontColor=ffffff&fontAlignY=65&color=gradient&customColorList=6,12,20,24" width="100%" alt="Waving footer">
-<br>
-<sub><b>© Neraj Lal</b> · Full Stack Developer · Shopify · AI · SaaS</sub>
-</div>
+---
+
+## 🚀 Featured Projects
+
+### 🤖 AI RAG Bot
+A Retrieval-Augmented Generation application built using **LangChain, Gemini AI, FAISS, Vector Databases, Python and Streamlit**.
+
+### 💬 AI Chatbot
+An AI conversational application focused on **NLP, Gemini AI, Python and Streamlit**.
+
+### 🎙️ FRIDAY / Nova AI Voice Assistant
+An AI voice assistant integrating **Gemini AI, ElevenLabs and VAPI**, designed for natural voice interaction and multilingual conversations.
+
+### 🌐 AI Web Scraping & Data Intelligence Platform
+A data intelligence platform using **Python, Streamlit, BeautifulSoup, Selenium, Pandas and Plotly** to collect, process and visualize web data.
+
+### 💳 Payment Fraud Detection
+A machine-learning project focused on identifying potentially fraudulent payment transactions using data analysis and ML techniques.
+
+### 🧩 AI Portfolio Builder
+An AI-assisted portfolio creation project using modern AI development tools and design workflows.
+
+---
+
+## 🛠️ Tools & Technologies
+
+```text
+Languages
+Python
+
+AI / Generative AI
+Generative AI
+LLMs
+RAG
+LangChain
+Prompt Engineering
+Gemini AI
+Vector Databases
+FAISS
+
+Machine Learning / Data
+Pandas
+NumPy
+Scikit-learn
+TensorFlow Hub
+Matplotlib
+Seaborn
+Plotly
+
+Development
+Streamlit
+Jupyter Notebook
+Google Colab
+Git
+GitHub
+
+AI Tools
+Google AI Studio
+Claude
+OpenAI
+Gemini
+Lovable AI
+Google Stitch
