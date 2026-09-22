@@ -1,6 +1,9 @@
 <div align="left">
 
 <h1>Hey there, I'm Abhiram A. 👋</h1>
+<p align="center">
+  <img src="./img.png" alt="Abhiram A." width="900"/>
+</p>
 
 <a href="https://github.com/abhiram33">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=EF93C4&center=false&vCenter=true&width=600&lines=Generative+AI+Engineer;AI+%7C+RAG+%7C+LLM+Applications;Python+%7C+LangChain+%7C+Gemini;Building+AI-Powered+Applications;Turning+Ideas+Into+Working+AI+Products" alt="Typing SVG">
