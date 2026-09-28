@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="610" viewBox="0 0 1180 610" role="img" aria-label="Abhiram A. Generative AI Engineer profile banner">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#030712"/>
+      <stop offset="50%" stop-color="#07111f"/>
+      <stop offset="100%" stop-color="#050b14"/>
+    </linearGradient>
+    <linearGradient id="panelGlow" x1="0" x2="1">
+      <stop offset="0%" stop-color="#7c3aed" stop-opacity="0.32"/>
+      <stop offset="50%" stop-color="#22d3ee" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="#10b981" stop-opacity="0.18"/>
+    </linearGradient>
+    <linearGradient id="accentLine" x1="0" x2="1">
+      <stop offset="0%" stop-color="#7c3aed"/>
+      <stop offset="50%" stop-color="#22d3ee"/>
+      <stop offset="100%" stop-color="#10b981"/>
+    </linearGradient>
+    <radialGradient id="orbL" cx="0.2" cy="0.2" r="0.7">
+      <stop offset="0%" stop-color="#7c3aed" stop-opacity="0.34"/>
+      <stop offset="40%" stop-color="#22d3ee" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#030712" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="orbR" cx="0.8" cy="0.2" r="0.8">
+      <stop offset="0%" stop-color="#22d3ee" stop-opacity="0.25"/>
+      <stop offset="35%" stop-color="#10b981" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#030712" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M 28 0 L 0 0 0 28" fill="none" stroke="#94a3b8" stroke-opacity="0.08"/>
+    </pattern>
+    <filter id="panelShadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#020817" flood-opacity="0.45"/>
+    </filter>
+    <clipPath id="leftCardClip">
+      <rect x="62" y="56" width="462" height="498" rx="22"/>
+    </clipPath>
+  </defs>
+
+  <rect width="1180" height="610" fill="url(#bg)"/>
+  <rect width="1180" height="610" fill="url(#grid)" opacity="0.8"/>
+  <circle cx="180" cy="110" r="240" fill="url(#orbL)"/>
+  <circle cx="1015" cy="120" r="250" fill="url(#orbR)"/>
+
+  <g opacity="0.8" fill="#22d3ee">
+    <circle cx="110" cy="540" r="3"><animate attributeName="opacity" values="0.2;0.9;0.2" dur="5s" repeatCount="indefinite"/></circle>
+    <circle cx="315" cy="465" r="2.5"><animate attributeName="opacity" values="0.3;1;0.3" dur="4.5s" repeatCount="indefinite"/></circle>
+    <circle cx="1060" cy="432" r="3"><animate attributeName="opacity" values="0.2;1;0.2" dur="6.1s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <g filter="url(#panelShadow)">
+    <rect x="48" y="42" width="1084" height="526" rx="28" fill="#0b1220" fill-opacity="0.28" stroke="#334155" stroke-opacity="0.5"/>
+    <rect x="62" y="56" width="462" height="498" rx="22" fill="#0d1729" fill-opacity="0.82" stroke="url(#accentLine)" stroke-opacity="0.5"/>
+    <rect x="546" y="56" width="566" height="498" rx="22" fill="#0f172a" fill-opacity="0.55" stroke="#334155" stroke-opacity="0.4"/>
+  </g>
+
+  <g clip-path="url(#leftCardClip)">
+    <rect x="62" y="56" width="462" height="498" fill="url(#panelGlow)" opacity="0.12"/>
+  </g>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">
+    <g transform="translate(84,82)">
+      <circle cx="0" cy="0" r="7" fill="#ff5f57"/>
+      <circle cx="20" cy="0" r="7" fill="#ffbd2e"/>
+      <circle cx="40" cy="0" r="7" fill="#28c840"/>
+      <text x="72" y="5" font-size="12" fill="#94a3b8" letter-spacing="1.2">developer@profile</text>
+      <text x="305" y="5" font-size="11" fill="#10b981" font-weight="700">[ ONLINE ]</text>
+    </g>
+
+    <g transform="translate(100,122)">
+      <rect x="0" y="0" width="360" height="360" rx="26" fill="#030712" fill-opacity="0.28" stroke="#334155" opacity="0.7"/>
+      <g fill="#7dd3fc" font-size="8">
+        <g opacity="0.8">
+          <text x="30" y="34">010101011010</text>
+          <text x="250" y="34">11010101110</text>
+          <text x="110" y="70">1010010101</text>
+          <text x="210" y="80">0100101010</text>
+          <text x="50" y="120">1010111010</text>
+          <text x="252" y="120">0110010101</text>
+          <text x="140" y="180">0011101010</text>
+          <text x="220" y="190">1101010110</text>
+          <text x="80" y="240">0101011100</text>
+          <text x="260" y="250">0010101110</text>
+          <text x="120" y="310">1010100110</text>
+          <text x="220" y="320">0101101010</text>
+        </g>
+      </g>
+
+      <g transform="translate(58,20)" fill="#8ae6ff" font-size="10">
+        <text x="0" y="0">.·:+*#%@</text>
+        <text x="0" y="20">.·:+*#%@</text>
+        <text x="0" y="40">.·:+*#%@</text>
+        <text x="0" y="60">.·:+*#%@</text>
+        <text x="0" y="80">.·:+*#%@</text>
+        <text x="0" y="100">.·:+*#%@</text>
+        <text x="0" y="120">.·:+*#%@</text>
+        <text x="0" y="140">.·:+*#%@</text>
+        <text x="0" y="160">.·:+*#%@</text>
+        <text x="0" y="180">.·:+*#%@</text>
+        <text x="0" y="200">.·:+*#%@</text>
+        <text x="0" y="220">.·:+*#%@</text>
+        <text x="0" y="240">.·:+*#%@</text>
+        <text x="0" y="260">.·:+*#%@</text>
+        <text x="0" y="280">.·:+*#%@</text>
+        <text x="0" y="300">.·:+*#%@</text>
+        <text x="180" y="0">.·:+*#%@</text>
+        <text x="180" y="20">.·:+*#%@</text>
+        <text x="180" y="40">.·:+*#%@</text>
+        <text x="180" y="60">.·:+*#%@</text>
+        <text x="180" y="80">.·:+*#%@</text>
+        <text x="180" y="100">.·:+*#%@</text>
+        <text x="180" y="120">.·:+*#%@</text>
+        <text x="180" y="140">.·:+*#%@</text>
+        <text x="180" y="160">.·:+*#%@</text>
+        <text x="180" y="180">.·:+*#%@</text>
+        <text x="180" y="200">.·:+*#%@</text>
+        <text x="180" y="220">.·:+*#%@</text>
+        <text x="180" y="240">.·:+*#%@</text>
+        <text x="180" y="260">.·:+*#%@</text>
+        <text x="180" y="280">.·:+*#%@</text>
+        <text x="180" y="300">.·:+*#%@</text>
+      </g>
+
+      <g fill="#7dd3fc" opacity="0.9" font-size="7.5">
+        <text x="72" y="96">0100011101</text>
+        <text x="82" y="112">1011100010</text>
+        <text x="86" y="126">1101011100</text>
+        <text x="90" y="144">0100110101</text>
+        <text x="92" y="160">1110011100</text>
+        <text x="108" y="176">0010110101</text>
+        <text x="100" y="198">1101010010</text>
+        <text x="106" y="220">0010101110</text>
+        <text x="90" y="238">1110101101</text>
+        <text x="82" y="256">0100101011</text>
+        <text x="90" y="276">1011101001</text>
+        <text x="96" y="296">0011010110</text>
+      </g>
+
+      <g opacity="0.78" fill="#e0f2fe" font-size="9">
+        <text x="20" y="40">0101010101</text>
+        <text x="210" y="42">1010101010</text>
+        <text x="16" y="160">1010101101</text>
+        <text x="220" y="170">0101110101</text>
+        <text x="34" y="300">0010110101</text>
+        <text x="220" y="300">1010110100</text>
+      </g>
+
+      <g opacity="0.9">
+        <text x="32" y="36" font-size="10" fill="#cbd5e1" letter-spacing="2.2">[PROFILE / ENGINEERING]</text>
+        <text x="32" y="74" font-size="28" fill="#f8fafc" font-weight="700">Generative</text>
+        <text x="32" y="106" font-size="28" fill="#f8fafc" font-weight="700">AI Engineer</text>
+        <text x="32" y="135" font-size="13" fill="#22d3ee" font-weight="600">AI products • RAG • LLM workflows</text>
+      </g>
+
+      <g transform="translate(30,160)">
+        <text x="0" y="0" font-size="12" fill="#94a3b8">~/profile $ build --ship</text>
+        <rect x="0" y="18" width="130" height="2" fill="#7c3aed" opacity="0.8"/>
+      </g>
+    </g>
+
+    <g transform="translate(578,88)">
+      <text x="0" y="0" font-size="12" fill="#94a3b8" letter-spacing="2.8">SYSTEM.INFO</text>
+      <text x="0" y="34" font-size="12" fill="#22d3ee" font-weight="600">user@developer:~$ ./profile.sh</text>
+
+      <g font-size="16" fill="#f8fafc">
+        <text x="0" y="80"><tspan fill="#94a3b8">NAME</tspan><tspan dx="31">Abhiram A.</tspan></text>
+        <text x="0" y="113"><tspan fill="#94a3b8">ROLE</tspan><tspan dx="29">Generative AI Engineer</tspan></text>
+        <text x="0" y="146"><tspan fill="#94a3b8">FOCUS</tspan><tspan dx="22">LLMs · RAG · AI Products</tspan></text>
+        <text x="0" y="179"><tspan fill="#94a3b8">STACK</tspan><tspan dx="24">Python · LangChain · Gemini</tspan></text>
+        <text x="0" y="212"><tspan fill="#94a3b8">BUILD</tspan><tspan dx="24">AI workflows + product experiences</tspan></text>
+      </g>
+
+      <g transform="translate(0,255)">
+        <text x="0" y="0" font-size="12" fill="#94a3b8" letter-spacing="2.5">CORE STACK</text>
+        <g font-size="12" fill="#f8fafc">
+          <rect x="0" y="18" width="94" height="26" rx="13" fill="#0b1220" fill-opacity="0.5" stroke="#334155"/>
+          <circle cx="16" cy="31" r="4" fill="#22d3ee"/>
+          <text x="28" y="36">Python</text>
+
+          <rect x="108" y="18" width="110" height="26" rx="13" fill="#0b1220" fill-opacity="0.5" stroke="#334155"/>
+          <circle cx="124" cy="31" r="4" fill="#7c3aed"/>
+          <text x="136" y="36">LangChain</text>
+
+          <rect x="232" y="18" width="82" height="26" rx="13" fill="#0b1220" fill-opacity="0.5" stroke="#334155"/>
+          <circle cx="248" cy="31" r="4" fill="#10b981"/>
+          <text x="260" y="36">Gemini</text>
+
+          <rect x="328" y="18" width="74" height="26" rx="13" fill="#0b1220" fill-opacity="0.5" stroke="#334155"/>
+          <circle cx="344" cy="31" r="4" fill="#22d3ee"/>
+          <text x="356" y="36">FAISS</text>
+
+          <rect x="416" y="18" width="92" height="26" rx="13" fill="#0b1220" fill-opacity="0.5" stroke="#334155"/>
+          <circle cx="432" cy="31" r="4" fill="#7c3aed"/>
+          <text x="444" y="36">Streamlit</text>
+        </g>
+      </g>
+
+      <g transform="translate(0,350)">
+        <text x="0" y="0" font-size="12" fill="#94a3b8" letter-spacing="2.2">SELECTED PROJECTS</text>
+        <g font-size="12" fill="#f8fafc">
+          <text x="0" y="24"><tspan fill="#22d3ee">▸</tspan> AI RAG Bot</text>
+          <text x="0" y="44"><tspan fill="#22d3ee">▸</tspan> AI Chatbot</text>
+          <text x="0" y="64"><tspan fill="#22d3ee">▸</tspan> Voice Assistant</text>
+          <text x="240" y="24"><tspan fill="#10b981">▸</tspan> Data Intelligence</text>
+          <text x="240" y="44"><tspan fill="#10b981">▸</tspan> Fraud Detection</text>
+          <text x="240" y="64"><tspan fill="#10b981">▸</tspan> AI Portfolio Builder</text>
+        </g>
+      </g>
+
+      <g transform="translate(0,443)">
+        <text x="0" y="0" font-size="12" fill="#94a3b8" letter-spacing="2.5">LINKS</text>
+        <text x="0" y="24" font-size="12" fill="#22d3ee">github.com/abhiram33</text>
+      </g>
+    </g>
+  </g>
+
+  <g opacity="0.9">
+    <rect x="70" y="530" width="1040" height="1" fill="url(#accentLine)" opacity="0.65">
+      <animate attributeName="opacity" values="0.25;0.9;0.25" dur="5.5s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>
