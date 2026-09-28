@@ -45,19 +45,18 @@
 
 ## 👨‍💻 About Me
 
-I'm **Neraj Lal**, a Full Stack Developer focused on building modern web applications, Shopify apps, SaaS products, and AI-powered solutions.
+I'm Abhiram A., a Generative AI Engineer focused on building AI-powered applications, intelligent automation, and modern web experiences.
 
-I enjoy taking an idea from **concept → architecture → development → deployment → production**.
+I work with Python, Generative AI, LLMs, RAG systems, LangChain, Gemini, vector databases, and Streamlit. I enjoy turning ideas into practical AI products and experimenting with emerging AI tools and technologies.
 
-- 🚀 Full Stack Web Development
-- 🛍️ Shopify App Development
-- 🤖 AI & LLM Integrations
-- 🏗️ SaaS & Multi-Tenant Applications
-- ☁️ Cloud Deployment & Server Management
-- ⚡ Laravel, PHP, JavaScript & React
-- 🐍 Exploring Python & Django
+### 🚀 What I Do
 
-> **Build things. Break things. Learn things. Ship things.**
+- 🤖 Generative AI & LLM Applications
+- 🧠 RAG Systems & AI Chatbots
+- 🔗 AI Agents & Automation
+- 🐍 Python & Machine Learning
+- 🌐 AI-powered Web Applications
+- ☁️ Deployment & Cloud Technologies
 
 </td>
 <td width="35%" align="center" valign="middle">
