@@ -2,7 +2,7 @@
 
 <h1>Hey there, I'm Abhiram A. 👋</h1>
 <p align="center">
-  <img src="./img.png" alt="Abhiram A." width="500"/>
+  <img src="./img.png" alt="Abhiram A." width="400"/>
 </p>
 
 <a href="https://github.com/abhiram33">
