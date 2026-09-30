@@ -108,49 +108,6 @@ A machine-learning project focused on identifying potentially fraudulent payment
 ### 🧩 AI Portfolio Builder
 An AI-assisted portfolio creation project using modern AI development tools and design workflows.
 
----
-
-## 🛠️ Tools & Technologies
-
-```text
-Languages
-Python
-
-AI / Generative AI
-Generative AI
-LLMs
-RAG
-LangChain
-Prompt Engineering
-Gemini AI
-Vector Databases
-FAISS
-
-Machine Learning / Data
-Pandas
-NumPy
-Scikit-learn
-TensorFlow Hub
-Matplotlib
-Seaborn
-Plotly
-
-Development
-Streamlit
-Jupyter Notebook
-Google Colab
-Git
-GitHub
-
-AI Tools
-Google AI Studio
-Claude
-OpenAI
-Gemini
-Lovable AI
-Google Stitch
-```
-
 <h2>🐍 Contribution Snake</h2>
 
 <p align="center">
